@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "755285041313",
+    "project_id": "flappybird-c96c2",
+    "storage_bucket": "flappybird-c96c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755285041313:android:f75a2f3a05b401e630d0e0",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fire_flappy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755285041313-rsevhhjrqnp1g29o2tqbkb88n9ef3njq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzgu5BQ3Ou_uoRopDu7dwrTZb-POhAug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755285041313-rsevhhjrqnp1g29o2tqbkb88n9ef3njq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755285041313-j4a7pfbjqet5d7bh7rk3t0ihhit8fd8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFireFlappy"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755285041313:android:06db7bfc9d742fe930d0e0",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755285041313-rsevhhjrqnp1g29o2tqbkb88n9ef3njq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzgu5BQ3Ou_uoRopDu7dwrTZb-POhAug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755285041313-rsevhhjrqnp1g29o2tqbkb88n9ef3njq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "755285041313-j4a7pfbjqet5d7bh7rk3t0ihhit8fd8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFireFlappy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
